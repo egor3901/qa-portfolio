@@ -46,7 +46,7 @@
 ---
 
 ## 🏆 Дополнительно
-- [Сертификат OTUS (PDF)](certs/stepik-certificate-171826-2c024a9.pdf)  
+- [Сертификат Stepik (PDF)](certs/stepik-certificate-171826-2c024a9.pdf)  
 - [LinkedIn](https://linkedin.com/in/egor-volkov-299279377)  
 - [Telegram](https://t.me/egorka3901) — пишите, обсудим вакансии!  
 
