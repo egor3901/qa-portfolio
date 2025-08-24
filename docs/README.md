@@ -21,4 +21,4 @@
 ## Контакты
 - Telegram: [@egorka3901](https://t.me/egorka3901)  
 - Email: 12345678q92@gmail.com  
-- LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
+- LinkedIn: [linkedin]((https://www.linkedin.com/in/egor-volkov-299279377/))  
