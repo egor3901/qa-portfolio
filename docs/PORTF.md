@@ -19,7 +19,7 @@
 |--------------|------------|--------|
 | [`/checklists`](checklists/checklist.md) | Чек-листы для веб-форм, корзины, фильтров товаров | 5 шт. |
 | [`/test-cases`](test-cases/testcase.md) | Позитивные и негативные кейсы в Excel и TestRail CSV | 5 кейса |
-| [`/bug-reports`](bug-reports/) | Баг-репорты в Jira JSON + скрины | 3 багов |
+| [`/bug-reports`](bug-reports/BR-001md) | Баг-репорты в Jira JSON + скрины | 3 багов |
 | [`/postman`](postman/postman-checklist.md) | Коллекции REST-запросов к fake-api (JSON) | 1 коллекции, 10 запросов |
 | [`/sql`](sql/sql_tasks_portfolio.md) | DDL + аналитические SELECT к учебной БД интернет-магазина | 2 файла |
 | [`/certs`](certs/stepik-certificate-171826-2c024a9.pdf) | Сертификат об окончании курса (PDF) | 1 файл |
