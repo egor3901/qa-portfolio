@@ -18,7 +18,7 @@
 | Папка / Файл | Что внутри | Кол-во |
 |--------------|------------|--------|
 | [`/checklists`](checklists/checklist.md) | Чек-листы для веб-форм, корзины, фильтров товаров | 5 шт. |
-| [`/test-cases`](test-cases/testcase.md) | Позитивные и негативные кейсы в Excel и TestRail CSV | 5 кейса |
+| [`/test-cases`](test-cases/testcase.md) | Позитивные и негативные кейсы в Excel и Test IT | 5 кейса |
 | [`/bug-reports`](bug-reports/BR-001.md) | Баг-репорты в Jira JSON + скрины | 3 багов |
 | [`/postman`](postman/postman-checklist.md) | Коллекции REST-запросов к fake-api (JSON) | 1 коллекции, 10 запросов |
 | [`/sql`](sql/sql_tasks_portfolio.md) | DDL + аналитические SELECT к учебной БД интернет-магазина | 2 файла |
